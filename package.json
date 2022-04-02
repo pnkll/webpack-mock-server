@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^9.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.0",
